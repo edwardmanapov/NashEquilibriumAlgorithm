@@ -1,0 +1,5 @@
+----------------------------------------------------------------------------------
+Gambit is an open-source collection of tools for doing computation in game theory.
+With Gambit, you can build, analyze, and explore game models.
+
+http://www.gambit-project.org/
