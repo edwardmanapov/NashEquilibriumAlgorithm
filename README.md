@@ -9,7 +9,5 @@ in case of many game rounds. And, show how it performs based on the time and spa
 complexity.
 
 ![GitHub Logo](/Markdown/ne.png)
-Format: ![Alt Text](url)
 
-http://github.com - automatic!
-[GitHub](http://www.gambit-project.org/)
+[Gambit](http://www.gambit-project.org/)
