@@ -1,13 +1,13 @@
 # Algorithm in Searching of Nash Equilibrium in Multi-player Games
-A research is made on algorithmic game theory. I designed and implemented
-a algorithm which performs a search of Nash equilibrium in two-player
+A research is done on algorithmic game theory. I implemented
+an algorithm which performs a search of Nash equilibrium in two-player
 and multi-player games using brute-force technique; this involves a basic knowledge
-background, which is covered properly.
+background, which is covered properly in (/doc/main.pdf).
 The source language of the algorithm is objective C, beside this pseudo-code is
-provided for users not in contact with object oriented languages. We test this algorithm
+provided for users not familiar with object oriented languages. We test this algorithm
 in case of many game rounds. And, show how it performs based on the time and space
 complexity.
 
-![GitHub Logo](/Markdown/ne.png)
+![GitHub Logo](/markdown/ne.png)
 
-[Gambit](http://www.gambit-project.org/)
+Tools used for cross examination[Gambit](http://www.gambit-project.org/)
