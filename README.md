@@ -8,6 +8,7 @@ provided for users not familiar with object oriented languages. We test this alg
 in case of many game rounds. And, show how it performs based on the time and space
 complexity.
 
-![GitHub Logo](/markdown/ne.png)
+![GitHub Logo](/Markdown/ne.png)
 
-Tools used for cross examination[Gambit](http://www.gambit-project.org/)
+![GitHub Logo](/test/e2e.jpg)
+
