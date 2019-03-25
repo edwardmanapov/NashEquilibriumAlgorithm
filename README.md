@@ -10,7 +10,7 @@ complexity.
 
 ![GitHub Logo](/Markdown/ne.png)
 
-# 100 rounds. Execution time: [0.122 − 0.0175] seconds
+# 100 random rounds. Execution time: [0.122 − 0.0175] seconds
 
 ![GitHub Logo](/test/e2e.jpg)
 
